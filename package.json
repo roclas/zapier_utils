@@ -1,0 +1,23 @@
+{
+  "name": "zapier_utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roclas/zapier_utils.git"
+  },
+  "author": "carlos hernandez",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/roclas/zapier_utils/issues"
+  },
+  "dependencies":{
+	"forever":">=0.10.10"
+  },
+  "homepage": "https://github.com/roclas/zapier_utils"
+}
+
